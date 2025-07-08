@@ -1,0 +1,14 @@
+C:\Users\Sohibjon\Desktop\c#\1 week\1lesson\obj\Debug\net9.0\1lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sohibjon\Desktop\c#\1 week\1lesson\obj\Debug\net9.0\1lesson.AssemblyInfoInputs.cache
+C:\Users\Sohibjon\Desktop\c#\1 week\1lesson\obj\Debug\net9.0\1lesson.AssemblyInfo.cs
+C:\Users\Sohibjon\Desktop\c#\1 week\1lesson\obj\Debug\net9.0\1lesson.csproj.CoreCompileInputs.cache
+C:\Users\Sohibjon\Desktop\c#\1 week\1lesson\bin\Debug\net9.0\1lesson.exe
+C:\Users\Sohibjon\Desktop\c#\1 week\1lesson\bin\Debug\net9.0\1lesson.deps.json
+C:\Users\Sohibjon\Desktop\c#\1 week\1lesson\bin\Debug\net9.0\1lesson.runtimeconfig.json
+C:\Users\Sohibjon\Desktop\c#\1 week\1lesson\bin\Debug\net9.0\1lesson.dll
+C:\Users\Sohibjon\Desktop\c#\1 week\1lesson\bin\Debug\net9.0\1lesson.pdb
+C:\Users\Sohibjon\Desktop\c#\1 week\1lesson\obj\Debug\net9.0\1lesson.dll
+C:\Users\Sohibjon\Desktop\c#\1 week\1lesson\obj\Debug\net9.0\refint\1lesson.dll
+C:\Users\Sohibjon\Desktop\c#\1 week\1lesson\obj\Debug\net9.0\1lesson.pdb
+C:\Users\Sohibjon\Desktop\c#\1 week\1lesson\obj\Debug\net9.0\1lesson.genruntimeconfig.cache
+C:\Users\Sohibjon\Desktop\c#\1 week\1lesson\obj\Debug\net9.0\ref\1lesson.dll
