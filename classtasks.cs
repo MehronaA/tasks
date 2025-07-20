@@ -160,3 +160,6 @@ for (int i = 0; i < a; i++)
     if (k == 2) continue;
     else Console.Write($"{arr[i]} ");
 }*/
+//testfkmvdkm
+//dvnfkjvj
+

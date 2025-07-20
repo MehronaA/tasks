@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sohibjon\\Desktop\\c#\\1 week\\1lesson\\1lesson.csproj": {}
+    "C:\\Users\\Sohibjon\\Desktop\\тест\\tasks\\1lesson.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sohibjon\\Desktop\\c#\\1 week\\1lesson\\1lesson.csproj": {
+    "C:\\Users\\Sohibjon\\Desktop\\тест\\tasks\\1lesson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sohibjon\\Desktop\\c#\\1 week\\1lesson\\1lesson.csproj",
+        "projectUniqueName": "C:\\Users\\Sohibjon\\Desktop\\тест\\tasks\\1lesson.csproj",
         "projectName": "1lesson",
-        "projectPath": "C:\\Users\\Sohibjon\\Desktop\\c#\\1 week\\1lesson\\1lesson.csproj",
+        "projectPath": "C:\\Users\\Sohibjon\\Desktop\\тест\\tasks\\1lesson.csproj",
         "packagesPath": "C:\\Users\\Sohibjon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sohibjon\\Desktop\\c#\\1 week\\1lesson\\obj\\",
+        "outputPath": "C:\\Users\\Sohibjon\\Desktop\\тест\\tasks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sohibjon\\AppData\\Roaming\\NuGet\\NuGet.Config"
